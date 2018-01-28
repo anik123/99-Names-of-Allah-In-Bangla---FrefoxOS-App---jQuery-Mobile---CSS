@@ -1,0 +1,145 @@
+/* font face start*/
+
+@font-face
+{
+    font-family: good;
+    src: url(font/Quicksand-Bold.otf);
+}
+
+@font-face
+{
+    font-family: time;
+    src: url(font/Xolonium-Bold.otf);
+}
+@font-face
+{
+    font-family: bangla;
+    src: url(font/Sharifa.ttf);
+}
+@font-face
+{
+    font-family: bangla-head;
+    src: url(font/Godhuli.ttf);
+}
+
+@font-face
+{
+    font-family: mitra;
+    src: url(font/HooglyMJ.ttf);
+}
+.font-bangla
+{
+    font-family: "bangla-head";
+    font-size: 50px;
+}
+
+.title-text
+{
+    color: white;
+    font-family: "good";
+}
+
+.radio-icon
+{
+}
+.list-p
+{
+    font-family: "mitra";
+    margin-left: -6px;
+    font-size: 24px;
+}
+#radioSelect
+{
+    margin-top: 1px;
+}
+.divide
+{
+    border-left: 1px solid #38546d;
+    border-right: 1px solid #38546d;
+    height: 32px;
+    text-align: center;
+}
+.radioImagePos
+{
+    display: table-cell;
+    vertical-align: middle;
+    width: 256px;
+    height: 256px;
+    text-align: center;
+    margin-left: 18px;
+    margin-top: 20px;
+    margin-right: auto;
+}
+#radioDetails
+{
+    background: #fff;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#deshboard .ui-header
+{
+    height: 48px;
+}
+
+#deshboard .ui-header h1
+{
+    font-family: "mitra";
+    font-size: 24px;
+    margin-top: 8px;
+}
+#deshboard .ui-header a #btnInfo
+{
+    margin-top: 8px;
+}
+#kalemaDetails
+{
+    font-family: "good";
+}
+#kalemaDetails .ui-title
+{
+    min-width: 150px;
+    text-align: center;
+}
+.font-good
+{
+    font-family: "good";
+}
+
+#deshboard .ui-title
+{
+    width: 100%;
+    text-align: center;
+    margin-left: 8px;
+}
+#kalemaList li img
+{
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+#deshboard.ui-page
+{
+    background: url(../images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.ui-page .ui-header
+{
+    background: #5185B6 !important;
+    -webkit-box-shadow: 0px 3px 24px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 24px 3px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 24px 3px rgba(0,0,0,0.75);
+}
+#kalemaDetails.ui-page
+{
+    background: url(../images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+}

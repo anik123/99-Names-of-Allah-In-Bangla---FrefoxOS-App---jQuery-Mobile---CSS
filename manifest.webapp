@@ -1,0 +1,22 @@
+{
+  "name": "99 Names of Allah In Bangla",
+  "description": "The 99 names of Allah in Islam are the names by which Muslims regard God. Among other places, they are described in the Quran and Sunnah.There is, according to hadith, a special group of 99 names, but no enumeration of them. Thus the exact list is not agreed upon, and the names of Allah exceed a total of 99 in the Quran and Sunnah. According to a hadith narrated by Abdullah ibn Mas'ud, some of the names of God have also been hidden from mankind.The most beautiful names belong to God, so call on Him thereby. (7:180) Those who believe, and whose hearts find satisfaction in the remembrance of GOD, for without doubt in the remembrance of God do hearts find satisfaction. (13:28)",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16x16.png",
+    "48": "/icons/icon48x48.png",
+    "60": "/icons/icon60x60.png",
+    "128": "/icons/icon128x128.png"
+  },
+  "orientation": "portrait",
+  "default_locale": "en",
+  "developer": {
+    "name": "OmeletIT",
+    "url": "http://omleteit.com"
+  },
+  "permissions": {
+      "audio-channel-content":{"description":  "Using this for play kalma in background"}
+   },
+   "version": "1.0"
+
+}
