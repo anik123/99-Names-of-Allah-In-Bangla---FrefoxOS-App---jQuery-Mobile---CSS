@@ -11,8 +11,8 @@
   "orientation": "portrait",
   "default_locale": "en",
   "developer": {
-    "name": "OmeletIT",
-    "url": "http://omleteit.com"
+    "name": "Anik Islam Abhi",
+    "url": "http://www.anikislamabhi.com/"
   },
   "permissions": {
       "audio-channel-content":{"description":  "Using this for play kalma in background"}
